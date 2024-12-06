@@ -16,8 +16,6 @@ We can use useLocation to display a message or perform a specific action wheneve
 💡 Why This Matters:
 The useLocation hook is essential for building more responsive and interactive applications. It helps track URL changes in real time, enabling your app to adapt to the user’s navigation without a full page reload. It’s a great way to create more dynamic and user-friendly experiences.
 
-💻 Check out my GitHub to see the full implementation of useLocation and how I’ve used it to enhance my app's routing behavior: 🔗 https://lnkd.in/gsmhzHna
-
 If you've used useLocation or have any tips on how to leverage it effectively, feel free to share your thoughts! I'd love to hear from you.
 
 Here’s to another day of growth and learning! 💻🙌
